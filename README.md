@@ -1,4 +1,4 @@
-# Hello there! Siri Here 
+# Hello there! I'm Siri 
 
 I am a Solutions Engineer with M.Tech in Computer Networks and Engineering from RVCE, Bengaluru. 
 
